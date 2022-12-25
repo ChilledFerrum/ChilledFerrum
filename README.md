@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello there :wave:! My name is Dimitrios Mpouziotas 
 
-<!--
-**ChilledFerrum/ChilledFerrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me:
+I am majoring in computer science and studying in the University of Ioannina. I am currently developing my skills in Data analysis and Computer Vision. 
+<br/><br/>
+**Programming Languages:**
 
-Here are some ideas to get you started:
+ - C++ (Advanced)
+ - Python (Intermediate)
+ - Java (Intermediate)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Research:** <br/>
+ - [Object Detection for Low Light Images](https://ieeexplore.ieee.org/document/9932921)
+
+
+### About this GitHub page:
+My GitHub page operates as a public introductory about my skills and projects. In this page I will be sharing some of my projects that I have created through out the time that I find to be interesting.
