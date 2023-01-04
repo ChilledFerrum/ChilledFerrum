@@ -6,7 +6,7 @@ I am majoring in computer science and studying in the University of Ioannina. I 
 **Programming Languages:**
 
  - C++ (Advanced)
- - Python (Intermediate)
+ - Python (Intermediate to Advanced)
  - Java (Intermediate)
 
 **Research:** <br/>
