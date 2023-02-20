@@ -1,7 +1,7 @@
 ## Hello there :wave:! My name is Dimitrios Mpouziotas 
 
 ### About me:
-I am majoring in computer science and studying in the University of Ioannina. I am currently developing my skills in Data analysis and Computer Vision. 
+I am majoring in computer science and studying in the University of Ioannina. I am currently developing my skills in Data analysis, Computer Vision and Neural Networks. 
 <br/><br/>
 **Programming Languages:**
 
