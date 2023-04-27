@@ -8,8 +8,22 @@ I am majoring in computer science and studying in the University of Ioannina. I 
  - C++ (Advanced)
  - Python (Advanced)
  - Java (Intermediate)
+ - Shell Scripting (Beginner)
+ - HTML/CSS (Intermediate)
 
-**Research:** <br/>
+**Tools & Experience in:**
+ - Basic File Management Skills using Python
+
+ - Computer Vision
+ - OpenCV (C++ & Python)
+ - Data Analysis
+
+ - Object Detection
+ - Darksuite & YOLO models
+ - Image Dataset Development
+ - Image Labeling/tiling/augmentation 
+
+**Research Publications:** <br/>
  - [Object Detection for Low Light Images](https://ieeexplore.ieee.org/document/9932921)
 
 
