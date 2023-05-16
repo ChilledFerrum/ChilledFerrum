@@ -23,6 +23,10 @@ I am majoring in computer science and studying in the University of Ioannina. I 
  - Image Dataset Development
  - Image Labeling/tiling/augmentation 
 
+Profiles:
+- [ResearchGate](https://www.researchgate.net/profile/Dimitris-Mpouziotas)
+- [IEEE Xplore](https://ieeexplore.ieee.org/author/37089583858)
+- [Linkedin](https://www.linkedin.com/in/dimitris-mpouziotas-a34318256/)
 **Research Publications:** <br/>
  - [Object Detection for Low Light Images](https://ieeexplore.ieee.org/document/9932921)
 
