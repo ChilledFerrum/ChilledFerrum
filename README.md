@@ -11,7 +11,7 @@ I am majoring in computer science and studying in the University of Ioannina. I 
  - Shell Scripting (Beginner)
  - HTML/CSS (Intermediate)
 
-**Tools & Experience in:**
+**Tools & Experience:**
  - Basic File Management Skills using Python
 
  - Computer Vision
