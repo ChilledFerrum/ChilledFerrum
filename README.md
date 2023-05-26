@@ -12,16 +12,16 @@ I am majoring in computer science and studying in the University of Ioannina. I 
  - HTML/CSS (Intermediate)
 
 **Tools & Experience:**
- - Basic File Management Skills using Python
-
- - Computer Vision
+ - File Management 
+ - Computer Vision Specialist
  - OpenCV (C++ & Python)
- - Data Analysis
-
+ - Data Analyst
  - Object Detection
  - Darksuite & YOLO models
  - Image Dataset Development
  - Image Labeling/tiling/augmentation 
+ - Unix/linux Shell
+ - Debian Distributions (Ubuntu)
 
 Profiles:
 - [ResearchGate](https://www.researchgate.net/profile/Dimitris-Mpouziotas)
