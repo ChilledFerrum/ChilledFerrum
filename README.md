@@ -4,9 +4,9 @@
 I am majoring in computer science and studying in the University of Ioannina. I am currently developing my skills in Data analysis, Computer Vision and Neural Networks. 
 <br/><br/>
 **Programming Languages:**
-
+<!--  - <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/efa6c805340d33a03c2c8e8332661fb919610e2e/style/Python.png" width="25" height="25" position="relative"> -->
  - C++ (Advanced)
- - Python (Advanced) <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/efa6c805340d33a03c2c8e8332661fb919610e2e/style/Python.png" width="25" height="25">
+ - Python (Advanced) 
  - Java (Intermediate)
  - Shell Scripting (Beginner)
  - HTML/CSS (Intermediate)
