@@ -21,7 +21,7 @@ I am majoring in computer science and studying in the University of Ioannina. I 
  - Image Dataset Development
  - Image Labeling/tiling/augmentation 
  - Unix/linux Shell
- - Debian Distributions (Ubuntu ![ ](https://github.com/ChilledFerrum/ChilledFerrum/style/Ubuntu.png?raw=true)
+ - Debian Distributions (Ubuntu <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/5347db0418e383c999c1a95882fe9fcf34602d49/style/Ubuntu.png" width="15" height="15">)
 
 Profiles:
 - [ResearchGate](https://www.researchgate.net/profile/Dimitris-Mpouziotas)
