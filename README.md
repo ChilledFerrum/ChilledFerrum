@@ -17,7 +17,7 @@ I am majoring in computer science and studying in the University of Ioannina. I 
  - OpenCV (C++ & Python) <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/c55b84bf0d87a1503484ecfa15cf438863084b65/style/OpenCV.png" width="50" height="20">
  - Data Analyst
  - Object Detection
- - Darksuite & YOLO models <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/182bcfd5384e5b133a6da195fbb5b2af89947eda/style/darknet.png" width="30" height="30">
+ - Darksuite & YOLO models <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/182bcfd5384e5b133a6da195fbb5b2af89947eda/style/darknet.png" width="25" height="25">
  - Image Dataset Development
  - Image Labeling/tiling/augmentation (Largest dataset ever built 34,563 annotations, 10,500 images)
  - Unix/linux Shell <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/51af7ea28b00011947c625eae60d5c71c4c3475b/style/BashLinuxUnixShell.png" width="20" height="20">
