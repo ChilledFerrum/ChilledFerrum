@@ -19,7 +19,7 @@ I am majoring in computer science and studying in the University of Ioannina. I 
  - Object Detection
  - Darksuite & YOLO models <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/182bcfd5384e5b133a6da195fbb5b2af89947eda/style/darknet.png" width="30" height="30">
  - Image Dataset Development
- - Image Labeling/tiling/augmentation 
+ - Image Labeling/tiling/augmentation (Largest dataset ever built 34,563 annotations, 10,500 images)
  - Unix/linux Shell <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/51af7ea28b00011947c625eae60d5c71c4c3475b/style/BashLinuxUnixShell.png" width="20" height="20">
  - Debian Distributions (Ubuntu <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/5347db0418e383c999c1a95882fe9fcf34602d49/style/Ubuntu.png" width="15" height="15">)
 
