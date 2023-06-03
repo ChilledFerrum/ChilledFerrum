@@ -14,7 +14,7 @@ I am majoring in computer science and studying in the University of Ioannina. I 
 **Tools & Experience:**
  - File Management 
  - Computer Vision Specialist
- - OpenCV (C++ & Python) <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/c55b84bf0d87a1503484ecfa15cf438863084b65/style/OpenCV.png" width="60" height="30">
+ - OpenCV (C++ & Python) <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/c55b84bf0d87a1503484ecfa15cf438863084b65/style/OpenCV.png" width="50" height="20">
  - Data Analyst
  - Object Detection
  - Darksuite & YOLO models <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/182bcfd5384e5b133a6da195fbb5b2af89947eda/style/darknet.png" width="30" height="30">
