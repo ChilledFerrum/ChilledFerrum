@@ -30,6 +30,7 @@ Profiles:
 
 **Research Publications:** <br/>
  - [Object Detection for Low Light Images](https://ieeexplore.ieee.org/document/9932921)
+ - [Automated Wildlife Bird Detection from Drone Footage Using Computer Vision Techniques](https://www.mdpi.com/2076-3417/13/13/7787)
 
 
 ### About this GitHub page:
