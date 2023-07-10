@@ -1,11 +1,11 @@
 ## Hello there :wave:! My name is Dimitrios Mpouziotas 
 
 ### About me:
-I am majoring in computer science and studying in the University of Ioannina. I am currently developing my skills in Data analysis, Computer Vision and Neural Networks. 
+I am majoring in computer science and studying at the University of Ioannina. I am developing my skills in Data Analysis, Computer Vision, and Neural Networks. 
 <br/><br/>
 
 ### About this GitHub page:
-My GitHub page operates as a public introductory about my skills and projects. In this page I will be sharing some of my projects that I have created through out the time that I find to be interesting.
+My GitHub page operates as a public introductory to my skills and projects. On this page, I will be sharing some of the projects I have created throughout the time that I find interesting.
 
 
 **Programming Languages:**
@@ -33,7 +33,7 @@ My GitHub page operates as a public introductory about my skills and projects. I
   - Object Detection
   - <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/182bcfd5384e5b133a6da195fbb5b2af89947eda/style/darknet.png" width="20" height="20"> DarkSuite & YOLO models
   - Image Dataset Development
-  - Image Labeling/tiling/augmentation (Largest dataset ever built: 34,563 annotations, 10,500 images)
+  - Image Labeling/tiling/augmentation (Largest dataset ever built: 29,873 annotations, 12,041 images)
 - **Data Analyst**
 - <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/51af7ea28b00011947c625eae60d5c71c4c3475b/style/BashLinuxUnixShell.png" width="20" height="20"> **Unix/Linux Shell**
 - Debian Distributions (Ubuntu <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/5347db0418e383c999c1a95882fe9fcf34602d49/style/Ubuntu.png" width="15" height="15">)
