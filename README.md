@@ -26,16 +26,18 @@ My GitHub page operates as a public introductory about my skills and projects. I
 ---
 
 **Tools & Experience:**
- - File Management 
- - Computer Vision Specialist
- - OpenCV (C++ & Python) <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/c55b84bf0d87a1503484ecfa15cf438863084b65/style/OpenCV.png" width="50" height="20">
- - Data Analyst
- - Object Detection
- - Darksuite & YOLO models <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/182bcfd5384e5b133a6da195fbb5b2af89947eda/style/darknet.png" width="25" height="25">
- - Image Dataset Development
- - Image Labeling/tiling/augmentation (Largest dataset ever built 34,563 annotations, 10,500 images)
- - Unix/linux Shell <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/51af7ea28b00011947c625eae60d5c71c4c3475b/style/BashLinuxUnixShell.png" width="20" height="20">
- - Debian Distributions (Ubuntu <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/5347db0418e383c999c1a95882fe9fcf34602d49/style/Ubuntu.png" width="15" height="15">)
+- **Author & Researcher**
+- **Bachelors Student**
+- **Computer Vision Specialist**
+  - <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/c55b84bf0d87a1503484ecfa15cf438863084b65/style/OpenCV.png" width="40" height="15"> OpenCV (C++ & Python)
+  - Object Detection
+  - <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/182bcfd5384e5b133a6da195fbb5b2af89947eda/style/darknet.png" width="20" height="20"> DarkSuite & YOLO models
+  - Image Dataset Development
+  - Image Labeling/tiling/augmentation (Largest dataset ever built: 34,563 annotations, 10,500 images)
+- **Data Analyst**
+- <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/51af7ea28b00011947c625eae60d5c71c4c3475b/style/BashLinuxUnixShell.png" width="20" height="20"> **Unix/Linux Shell**
+- Debian Distributions (Ubuntu <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/5347db0418e383c999c1a95882fe9fcf34602d49/style/Ubuntu.png" width="15" height="15">)
+
 
 ---
 
