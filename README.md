@@ -17,7 +17,12 @@ My GitHub page operates as a public introductory about my skills and projects. I
  - HTML/CSS (Intermediate)
 
 ---
-[![ChilledFerrum's Repo Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ChilledFerrum&theme=dracula)](https://github.com/ChilledFerrum)
+<p align="center">
+  <a href="https://github.com/ChilledFerrum">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ChilledFerrum&theme=dracula" alt="ChilledFerrum's Repo Top Langs">
+  </a>
+</p>
+
 ---
 
 **Tools & Experience:**
