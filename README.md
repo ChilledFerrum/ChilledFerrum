@@ -7,8 +7,12 @@ I am majoring in computer science and studying at the University of Ioannina. I 
 ### About this GitHub page:
 My GitHub page operates as a public introductory to my skills and projects. On this page, I will be sharing some of the projects I have created throughout the time that I find interesting.
 
+### Running projects...
+ - <a href="https://github.com/ChilledFerrum/FerrmoNote">**FerrmoNote**</a> - non-funded personal project for the development of a dynamic application that allows for a more organized lifestyle.
+ - <a href="https://kic.uoi.gr/el/amvradia-erevna-kai-anaptyxi-proigmenon-ypol/">**AMVRADIA**</a> - Advanced Object Detection and Tracking Techniques for High-Resolution Images, Focusing on Small Object Classification.
 
-**Programming Languages:**
+
+### Programming Languages:
 <!--  - <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/efa6c805340d33a03c2c8e8332661fb919610e2e/style/Python.png" width="25" height="25" position="relative"> -->
  - C++ (Advanced)
  - Python (Advanced) 
