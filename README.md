@@ -10,7 +10,7 @@ My GitHub page operates as a public introductory to my skills and projects. On t
 ### Running projects...
  - <a href="https://github.com/ChilledFerrum/FerrmoNote">**FerrmoNote**</a> - non-funded personal project for the development of a dynamic application that allows for a more organized lifestyle.
  - <a href="https://kic.uoi.gr/el/amvradia-erevna-kai-anaptyxi-proigmenon-ypol/">**AMVRADIA**</a> - Advanced Object Detection and Tracking Techniques for High-Resolution Images, Focusing on Small Object Classification.
-
+ - <a href="https://boschfuturemobility.com">**Bosch Future Mobility Challenge 2024**</a>  A technical competition for students in the field of autonomous driving, on model carsat 1:10 scale, mimicking real-driving scenarios.
 
 ### Programming Languages:
 <!--  - <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/efa6c805340d33a03c2c8e8332661fb919610e2e/style/Python.png" width="25" height="25" position="relative"> -->
