@@ -5,7 +5,8 @@ I am majoring in computer science and studying at the University of Ioannina. I 
 <br/><br/>
 
 ### About this GitHub page:
-My GitHub page operates as a public introductory to my skills and projects. On this page, I will be sharing some of the projects I have created throughout the time that I find interesting.
+My GitHub page operates as a public introductory to my skills and projects. On this page, I will be sharing some of the projects I have created throughout the time that I find interesting. <br/>
+![](https://komarev.com/ghpvc/?username=ChilledFerrum&color=green)
 
 ### Running projects...
  - <a href="https://github.com/ChilledFerrum/FerrmoNote">**FerrmoNote**</a> - non-funded personal project for the development of a dynamic application that allows for a more organized lifestyle.
