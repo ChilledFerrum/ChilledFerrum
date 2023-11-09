@@ -6,9 +6,8 @@ I am 23 years old and I have a bachelor's degree in Computer Science from the Un
 ### Advices & Inspirations
 - Starting from a baseline, mine is to focus on a healthy diet that can support all the aspects I want to improve. <br/>
 - Challenge yourself with long-term goals that you don't expect yourself to reach, but also divide these goals into smaller reachable ones, until you are halfway there. That's when you'll feel your high.<br/>
-- If you're fragile, that is okay. It means that you have tons of room for improvement. The journey might be difficult and challenging, but you'll love the results.<br/>
-- Be self-aware of your ego and embrace it. It is natural and okay to be egotistic, as long as you are aware of it and don't use it against others. By doing so, you reveal the kindness that resides within your heart.
- 
+- If you find yourself to be fragile, that is okay. It means that you have lots of room for improvement. The journey might be difficult and challenging. Keep fighting and never say "I give up", you'll love the end results.<br/>
+- Be self-aware of your ego and embrace it. It is natural and okay to be egotistic, as long as you are aware of it and don't use it against others. By doing so, you reveal the kindness that resides within your heart. <br/>
 <br/><br/>
 
 ### About this GitHub page:
