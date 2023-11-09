@@ -1,11 +1,18 @@
 ## Hello there :wave:! My name is Dimitrios Mpouziotas 
 
 ### About me:
-I am majoring in computer science and studying at the University of Ioannina. I am developing my skills in Data Analysis, Computer Vision and Machine Learning. 
+I am 23 years old and I have a bachelor's degree in Computer Science from the University of Ioannina. My majors are Computer Vision and Data Analysis. I am very proud of what I have achieved and I constantly push myself hard to improve myself in as many aspects as I can, such as cognition, mentality, and physicality. My drive has always been to contribute and leave a great legacy behind.
+
+### Advices & Inspirations
+- Starting from a baseline, mine is to focus on a healthy diet that can support all the aspects I want to improve. <br/>
+- Challenge yourself with long-term goals that you don't expect yourself to reach, but also divide these goals into smaller reachable ones, until you are halfway there. That's when you'll feel your high.<br/>
+- If you're fragile, that is okay. It means that you have tons of room for improvement. The journey might be difficult and challenging, but you'll love the results.<br/>
+- Be self-aware of your ego and embrace it. It is natural and okay to be egotistic, as long as you are aware of it and don't use it against others. By doing so, you reveal the kindness that resides within your heart.
+ 
 <br/><br/>
 
 ### About this GitHub page:
-My GitHub page operates as a public introductory to my skills and projects. On this page, I will be sharing some of the projects I have created throughout the time that I find interesting. <br/>
+My GitHub page operates as a public introductory to my skills, projects, and more that I'd like to share. On this page, I will be sharing some of the projects I have created throughout the time that I find interesting. <br/>
 ![](https://komarev.com/ghpvc/?username=ChilledFerrum&color=green)
 
 ### Running projects...
