@@ -26,10 +26,9 @@ My GitHub page operates as a public introductory to my skills and projects. On t
 ---
 <p align="center">
   <a href="https://github.com/ChilledFerrum">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ChilledFerrum&theme=dracula" alt="ChilledFerrum's Repo Top Langs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChilledFerrum&layout=pie&theme=tokyonight&hide_border=true&hide=" /></a>
   </a>
 </p>
-
 ---
 
 **Tools & Experience:**
