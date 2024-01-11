@@ -19,7 +19,6 @@ My GitHub page operates as a public introductory to my skills, projects, and mor
  - <a href="https://kic.uoi.gr/el/amvradia-erevna-kai-anaptyxi-proigmenon-ypol/">**AMVRADIA**</a> - Advanced Object Detection and Tracking Techniques for High-Resolution Images, Focusing on Small Object Classification for the surveillance of wildlife birds.
     - <a href="https://youtu.be/MnMAoin4kec">Object Detection & Tracking - YOLOv7 Model - Bird Surveillance 88% mAP - Trial #2</a>
     - <a href="https://youtu.be/lMITeOJ_ss0">Object Detection + Tracking - YOLOv4 model - Bird Surveillance Trial #1</a>
- - <a href="https://boschfuturemobility.com">**Bosch Future Mobility Challenge 2024**</a>  A technical competition for students in the field of autonomous driving, on model carsat 1:10 scale, mimicking real-driving scenarios.
 
 ### Programming Languages:
 <!--  - <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/efa6c805340d33a03c2c8e8332661fb919610e2e/style/Python.png" width="25" height="25" position="relative"> -->
