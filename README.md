@@ -15,10 +15,12 @@ My GitHub page operates as a public introductory to my skills, projects, and mor
 ![](https://komarev.com/ghpvc/?username=ChilledFerrum&color=green)
 
 ### Running projects...
- - <a href="https://github.com/ChilledFerrum/FerrmoNote">**FerrmoNote**</a> - non-funded personal project for the development of a dynamic application that allows for a more organized lifestyle.
+ - <a>**ORACLE** (Optimized Rigorous Advanced Cutting-edge model for Leveraging protection of Ecosystems)</a>
  - <a href="https://kic.uoi.gr/el/amvradia-erevna-kai-anaptyxi-proigmenon-ypol/">**AMVRADIA**</a> - Advanced Object Detection and Tracking Techniques for High-Resolution Images, Focusing on Small Object Classification for the surveillance of wildlife birds.
+    - <a href="https://youtu.be/P68YwJPc2DY">RACLE - Advanced Object Detection and Tracking of small objects using a Finetuned YOLOv8x-p2 model</a>
     - <a href="https://youtu.be/MnMAoin4kec">Object Detection & Tracking - YOLOv7 Model - Bird Surveillance 88% mAP - Trial #2</a>
     - <a href="https://youtu.be/lMITeOJ_ss0">Object Detection + Tracking - YOLOv4 model - Bird Surveillance Trial #1</a>
+- ~~<a href="https://github.com/ChilledFerrum/FerrmoNote">**FerrmoNote**</a> - non-funded personal project for the development of a dynamic application that allows for a more organized lifestyle.~~
 
 ### Programming Languages:
 <!--  - <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/efa6c805340d33a03c2c8e8332661fb919610e2e/style/Python.png" width="25" height="25" position="relative"> -->
@@ -39,7 +41,8 @@ My GitHub page operates as a public introductory to my skills, projects, and mor
 - **Bachelors Student**
 - **Computer Vision Specialist**
   - <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/c55b84bf0d87a1503484ecfa15cf438863084b65/style/OpenCV.png" width="40" height="15"> OpenCV (C++ & Python)
-  - Object Detection
+  - Advanced Object Detection
+  - Ultralytics, PyTorch, DarkSuite (Darknet, DarkMark, DarkHelp)
   - <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/182bcfd5384e5b133a6da195fbb5b2af89947eda/style/darknet.png" width="20" height="20"> DarkSuite & YOLO models
   - Image Dataset Development
   - Image Labeling/tiling/augmentation (Largest dataset ever built: 29,873 annotations, 12,041 images)
