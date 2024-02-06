@@ -42,6 +42,7 @@ My GitHub page operates as a public introductory to my skills, projects, and mor
 - **Computer Vision Specialist**
   - <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/c55b84bf0d87a1503484ecfa15cf438863084b65/style/OpenCV.png" width="40" height="15"> OpenCV (C++ & Python)
   - Advanced Object Detection
+  - Object Tracking
   - Ultralytics, PyTorch, DarkSuite (Darknet, DarkMark, DarkHelp)
   - <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/182bcfd5384e5b133a6da195fbb5b2af89947eda/style/darknet.png" width="20" height="20"> DarkSuite & YOLO models
   - Image Dataset Development
