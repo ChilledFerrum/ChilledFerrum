@@ -52,8 +52,9 @@ My GitHub page operates as a public introductory to my skills, projects, and mor
 
 
 **Research Publications:** <br/>
- - [Object Detection for Low Light Images](https://ieeexplore.ieee.org/document/9932921)
- - [Automated Wildlife Bird Detection from Drone Footage Using Computer Vision Techniques](https://www.mdpi.com/2076-3417/13/13/7787)
+ - [Object Detection for Low Light Images](https://ieeexplore.ieee.org/document/9932921) **Published: 01 November 2022**
+ - [Automated Wildlife Bird Detection from Drone Footage Using Computer Vision Techniques](https://www.mdpi.com/2076-3417/13/13/7787) **Published: 30 June 2023**
+ - [AliAmvra—Enhancing Customer Experience through the Application of Machine Learning Techniques for Survey Data Assessment and Analysis](https://www.mdpi.com/2078-2489/15/2/83) **Published: 4 February 2024**
 
 
 Profiles:
