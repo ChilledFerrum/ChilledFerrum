@@ -17,7 +17,7 @@ My GitHub page operates as a public introductory to my skills, projects, and mor
 ### Running projects...
  - <a>**ORACLE** (Optimized Rigorous Advanced Cutting-edge model for Leveraging protection of Ecosystems)</a> - A advanced model capable of reporting valuable analytics with the use of advanced object detection and tracking techniques. 
  - <a href="https://kic.uoi.gr/el/amvradia-erevna-kai-anaptyxi-proigmenon-ypol/">**AMVRADIA**</a> - Advanced Object Detection and Tracking Techniques for High-Resolution Images, Focusing on Small Object Classification for the surveillance of wildlife birds.
-    - <a href="https://youtu.be/P68YwJPc2DY">RACLE - Advanced Object Detection and Tracking of small objects using a Finetuned YOLOv8x-p2 model</a>
+    - <a href="https://youtu.be/P68YwJPc2DY">ORACLE - Advanced Object Detection and Tracking of small objects using a Finetuned YOLOv8x-p2 model</a>
     - <a href="https://youtu.be/MnMAoin4kec">Object Detection & Tracking - YOLOv7 Model - Bird Surveillance 88% mAP - Trial #2</a>
     - <a href="https://youtu.be/lMITeOJ_ss0">Object Detection + Tracking - YOLOv4 model - Bird Surveillance Trial #1</a>
 - ~~<a href="https://github.com/ChilledFerrum/FerrmoNote">**FerrmoNote**</a> - non-funded personal project for the development of a dynamic application that allows for a more organized lifestyle.~~
