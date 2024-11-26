@@ -20,10 +20,9 @@ My GitHub page operates as a public introductory to my skills, projects, and mor
  - Proud developer of the <a>**ORACLE** model (Optimized Rigorous Advanced Cutting-edge model for Leveraging protection of Ecosystems)</a> - A advanced model capable of reporting valuable analytics with the use of advanced object detection and tracking techniques.
     - <a href="https://youtu.be/P68YwJPc2DY">ORACLE - Advanced Object Detection and Tracking of small objects using a Finetuned YOLOv8x-p2 model</a>
  - <a href="https://kic.uoi.gr/el/amvradia-erevna-kai-anaptyxi-proigmenon-ypol/">**AMVRADIA**</a> - Advanced Object Detection and Tracking Techniques for High-Resolution Images, Focusing on Small Object Classification for the surveillance of wildlife birds.
-    
-    - <a href="https://youtu.be/MnMAoin4kec">Object Detection & Tracking - YOLOv7 Model - Bird Surveillance 88% mAP - Trial #2</a>
+    - <a href="https://youtu.be/i6lwUkJdKg0">ORACLE 2.0 Wildlife Surveillance - A Multimodal Data Collection Method Using YOLOv10x and ViT-B16</a>
+    - <a href="https://youtu.be/MnMAoin4kec">Object Detection + Tracking - YOLOv7 Model - Bird Surveillance 88% mAP - Trial #2</a>
     - <a href="https://youtu.be/lMITeOJ_ss0">Object Detection + Tracking - YOLOv4 model - Bird Surveillance Trial #1</a>
-- ~~<a href="https://github.com/ChilledFerrum/FerrmoNote">**FerrmoNote**</a> - non-funded personal project for the development of a dynamic application that allows for a more organized lifestyle.~~
 
 ### Programming Languages:
 <!--  - <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/efa6c805340d33a03c2c8e8332661fb919610e2e/style/Python.png" width="25" height="25" position="relative"> -->
@@ -64,7 +63,7 @@ My GitHub page operates as a public introductory to my skills, projects, and mor
  - [Automated Wildlife Bird Detection from Drone Footage Using Computer Vision Techniques](https://www.mdpi.com/2076-3417/13/13/7787) **Published: 30 June 2023**
  - [AliAmvra—Enhancing Customer Experience through the Application of Machine Learning Techniques for Survey Data Assessment and Analysis](https://www.mdpi.com/2078-2489/15/2/83) **Published: 4 February 2024**
  - [Advanced Computer Vision Methods for Tracking Wild Birds from Drone Footage](https://www.mdpi.com/2826752) **Published: 12th of June 2024**
-
+ - [A Multimodal Computer Vision Approach for Wildlife Bird Surveillance using Drones](http://dx.doi.org/10.1109/SEEDA-CECNSM63478.2024.00020) **Published: 30th of October 2024**
 Profiles:
 - [ResearchGate](https://www.researchgate.net/profile/Dimitris-Mpouziotas)
 - [IEEE Xplore](https://ieeexplore.ieee.org/author/37089583858)
