@@ -64,6 +64,7 @@ My GitHub page operates as a public introductory to my skills, projects, and mor
  - [AliAmvra—Enhancing Customer Experience through the Application of Machine Learning Techniques for Survey Data Assessment and Analysis](https://www.mdpi.com/2078-2489/15/2/83) **Published: 4 February 2024**
  - [Advanced Computer Vision Methods for Tracking Wild Birds from Drone Footage](https://www.mdpi.com/2826752) **Published: 12th of June 2024**
  - [A Multimodal Computer Vision Approach for Wildlife Bird Surveillance using Drones](http://dx.doi.org/10.1109/SEEDA-CECNSM63478.2024.00020) **Published: 30th of October 2024**
+
 Profiles:
 - [ResearchGate](https://www.researchgate.net/profile/Dimitris-Mpouziotas)
 - [IEEE Xplore](https://ieeexplore.ieee.org/author/37089583858)
