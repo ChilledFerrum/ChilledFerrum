@@ -32,18 +32,6 @@ My GitHub page operates as a public introductory to my skills, projects, and mor
  - Shell Scripting (Beginner)
  - HTML/CSS (Intermediate)
 
-<p align="center">
-  <a href="https://github.com/ChilledFerrum">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChilledFerrum&layout=pie&theme=tokyonight&hide_border=true&hide=" /></a>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ChilledFerrum">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChilledFerrum&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&hide=" /></a>
-  </a>
-</p>
-
 **Tools & Experience:**
 - **Author & Researcher**
 - **Bachelors Student**
