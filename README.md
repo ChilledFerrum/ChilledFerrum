@@ -27,8 +27,8 @@ My GitHub page operates as a public introductory to my skills, projects, and mor
 
 ### Programming Languages:
 <!--  - <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/efa6c805340d33a03c2c8e8332661fb919610e2e/style/Python.png" width="25" height="25" position="relative"> -->
- - C++ (Advanced)
- - Python (Advanced) 
+ - Python (Proficient)
+ - C++ (Intermediate)
  - Java (Intermediate)
  - Shell Scripting (Beginner)
  - HTML/CSS (Intermediate)
