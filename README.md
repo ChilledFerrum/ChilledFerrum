@@ -1,9 +1,9 @@
 ## Hello there :wave:! My name is Dimitrios Mpouziotas 
 
 ### About me:
-Hello 👋 My name is Dimitris Mpouziotas, I have a Bc. degree in Computer Science at the University of Ioannina in the Department of Informatics and Telecommunications. I specialize in Computer Vision and Image Processing techniques. I received my degree in the year 2023. My career goal and dream has always been to improve myself to much greater lengths, in order to contribute to evolution and look up to the skies.
+I strive towards discipline, rather than motivation, motivation merely ignites the fire, unlike discipline, the fire never stops blazing!
 
- I am a proud developer of the ORACLE model (Optimized Rigorous Advanced Cutting-edge model for Leveraging protection of Ecosystems). ORACLE is capable of detecting and tracking small to medium sized objects. Our objective with ORACLE is to extract valuable analytics from drone footage in remote areas such as the Amvrakikos Gulf in Greece.
+My name is Dimitrios Mpouziotas, a proud Computer Vision Engineer and Academic Researcher, driven to inspire and be inspired. Master of Science student at the University of Ioannina in the Department of Computer Science and Networking. An enthusiast in Artificial Intelligence, Computer Vision, Athleticism, Calisthenics and nutrition!
 
 ### Advices & Inspirations
 - Starting from a baseline, mine is to focus on a healthy diet that can support all the aspects I want to improve. <br/>
