@@ -1,4 +1,4 @@
-## Hello there :wave:! My name is Dimitrios Mpouziotas 
+## Hello :wave: My name is Dimitrios Mpouziotas 
 
 ### About me:
 I strive towards discipline, rather than motivation, motivation merely ignites the fire, unlike discipline, the fire never stops blazing!
